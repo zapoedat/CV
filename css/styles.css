@@ -27,7 +27,9 @@ h3
 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
   }
+
 .top-container
 {
   background-color: #a6e3e9;
@@ -36,6 +38,7 @@ h3
   padding-bottom: 0;
   margin-bottom: 0;
 }
+
 .mid-container
 {
 
@@ -74,7 +77,8 @@ padding:2rem;
 }
 .myimage
 {
-  width: 25%;
+  width: 15%;
+  padding-top: 30px;
 }
 .dev-image
 {
