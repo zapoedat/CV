@@ -30,6 +30,19 @@ h3
   font-size: 1rem;
   }
 
+p
+{
+  font-size: 1rem;
+  line-height: 2;
+}
+
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
 .top-container
 {
   background-color: #a6e3e9;
